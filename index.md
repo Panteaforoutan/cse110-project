@@ -1,6 +1,6 @@
 # Hello!
 ## My name is Pantea
-### I'm a computer science undergraduate student at UCSD
+### I'm a computer science undergraduate student at **UCSD**
 ![This is a picture of me in the prettiest place in the world! **Laguna beach** ](IMG_3294.HEIC) 
 One of my favorite quotes:
 > start early, start often.

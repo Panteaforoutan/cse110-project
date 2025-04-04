@@ -18,3 +18,4 @@ My favorite programming languages in order:
 3. Pyhton
 MY goals for next year:\
 - [ ] Graduate
+- [ ] Land an internship

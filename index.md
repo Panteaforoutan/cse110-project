@@ -19,3 +19,4 @@ My favorite programming languages in order:
 MY goals for next year:\
 - [ ] Graduate
 - [ ] Land an internship
+- [ ] Get a job

@@ -2,7 +2,7 @@
 ## My name is Pantea
 ### I'm a computer science undergraduate student at UCSD
 ![picture ](IMG_3294.HEIC) 
-a picture of in the **prettiest** place in the world aka Laguna beach\
+a picture of me in the **prettiest** place in the world **AKA Laguna beach**
 
 One of my favorite quotes:
 > start early, start often.

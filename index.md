@@ -1,13 +1,16 @@
 # Hello!
 ## My name is Pantea
-### I'm a computer science undergraduate student at **UCSD**
-![This is a picture of me in the prettiest place in the world! **Laguna beach** ](IMG_3294.HEIC) 
+### I'm a computer science undergraduate student at UCSD
+![picture ](IMG_3294.HEIC) 
+a picture of in the **prettiest** place in the world aka Laguna beach\
+
 One of my favorite quotes:
 > start early, start often.
 
-Use `git status` to list all new or modified files that haven't yet been committed.\
+The first line of code I ever wrote was `public static void main()` in an intro to java class in community college. \
+
 This site was built using [GitHub Pages](https://pages.github.com/).\
-Link to the hello! section: [Link Text](#Hello!).\
+Link to the Hello! section: [Link Text](#Hello!).\
 [README for this project](README.md)
 
 Classes I'm taking this quarter:
@@ -21,6 +24,6 @@ My favorite programming languages in order:
 3. Pyhton
 
 MY goals for next year:
-- [ ] Graduate
-- [ ] Land an internship
-- [ ] Get a job
+ - [ ] Graduate
+ - [ ] Land an internship
+ - [ ] Get a job

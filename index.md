@@ -1,13 +1,13 @@
 # Hello!
 ## My name is Pantea
-### I'm a computer science undergraduate student at UCSD
+### I'm an undergraduate computer science student at UCSD
 ![picture ](IMG_3294.HEIC) 
 a picture of me in the **prettiest** place in the world **AKA Laguna beach**
 
 One of my favorite quotes:
 > start early, start often.
 
-The first line of code I ever wrote was `public static void main()` in an intro to java class in community college. 
+The first line of code I ever wrote was `public static void main` in an intro to java class in community college. 
 
 This site was built using [GitHub Pages](https://pages.github.com/).\
 Link to the Hello! section: [Link Text](#Hello!).\

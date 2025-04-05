@@ -10,7 +10,7 @@ One of my favorite quotes:
 The first line of code I ever wrote was `public static void main` in an intro to java class in community college. 
 
 This site was built using [GitHub Pages](https://pages.github.com/).\
-Link to the Hello! section: [Link Text](#Hello!).\
+Link to the Hello! section: [Link Text](#Hello).\
 [README for this project](README.md)
 
 Classes I'm taking this quarter:
